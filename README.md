@@ -1,5 +1,5 @@
 # EnsembleLearning
-Implementing Basic Ensemble Learning
+Indepth Guide to Ensemble Learning
 
 
 # Notebooks
