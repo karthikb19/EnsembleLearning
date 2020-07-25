@@ -17,5 +17,5 @@ To learn more go through the notebooks in the following order
 * Going indepth about each technique and clean up the notebooks
 
 # References:
-Maarten Grootendorst - https://towardsdatascience.com/stacking-made-easy-with-sklearn-e27a0793c92b
-Aurelien Geron - Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow(Buy the book!)
+* Maarten Grootendorst - https://towardsdatascience.com/stacking-made-easy-with-sklearn-e27a0793c92b
+* Aurelien Geron - Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow(Buy the book!)
