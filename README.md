@@ -1,10 +1,15 @@
 # EnsembleLearning
-Indepth Guide to Ensemble Learning
+This repo has various implementations of Ensemble Learning technqiues
 
+Most implementations use scikit-learn but for boosting I do use XGBoost
 
 # Notebooks
 * Voting Classifier 
-* Bagging/Pasting(With OOB eval)
+* Bagging/Pasting
 * Random Forests
-* Boosting(Gradient Boost, XGB)
+* Boosting(Gradient Boosting, XGB)
 * Stacking
+
+# ToDo:
+* Adding "oob score" to the Bagging/Pasting repo
+* Going indepth about each technique and clean up the notebooks
