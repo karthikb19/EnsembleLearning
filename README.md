@@ -3,6 +3,9 @@ This repo has various implementations of Ensemble Learning technqiues
 
 Most implementations use scikit-learn but for boosting I do use XGBoost
 
+# Medium Article
+The medium article corresponding to this repo is at this [link](https://medium.com/@karthikmbhargav/the-power-of-ensemble-learning-2ad5186bcf06)
+
 # Learning Path:
 To learn more go through the notebooks in the following order
 1. Voting Classifier
@@ -15,6 +18,7 @@ To learn more go through the notebooks in the following order
 # ToDo:
 * Adding "oob score" to the Bagging/Pasting repo
 * Going indepth about each technique and clean up the notebooks
+
 
 # References:
 * Maarten Grootendorst - https://towardsdatascience.com/stacking-made-easy-with-sklearn-e27a0793c92b
